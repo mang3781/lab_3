@@ -1,4 +1,2 @@
 # lab_3
-Project Team Members: Marco Nguyen, Ana Fotoohighiam
-
-
+Project Team Members: Marco Nguyen, Ana Fotoohighiam, Khushbu Adhikari 
